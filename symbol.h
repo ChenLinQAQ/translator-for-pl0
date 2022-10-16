@@ -41,7 +41,7 @@
 */
 
 /* 符号 */
-char syms[][10] = {
+char syms[][11] = {
     "const",
     "var",
     "procedure",
@@ -72,7 +72,7 @@ char syms[][10] = {
     "=",
     ":=",
     "#",
-    "ident",
+    "identifier",
     "number"
 };
 
